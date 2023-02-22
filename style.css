@@ -1,0 +1,12 @@
+footer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
